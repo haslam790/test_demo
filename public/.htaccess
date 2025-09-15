@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteRule ^$ /dev [R=301,L]
+RewriteRule ^$ /next-konsuld-widget/dev [R=301,L]

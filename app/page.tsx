@@ -20,7 +20,7 @@ export default function RootPage() {
     }}>
       <div style={{ textAlign: 'center' }}>
         <h2>Redirecting to dev environment...</h2>
-        <p>If you are not redirected automatically, <a href="/dev">click here</a>.</p>
+        <p>If you are not redirected automatically, <a href="/next-konsuld-widget/dev">click here</a>.</p>
       </div>
     </div>
   )
